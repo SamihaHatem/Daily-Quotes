@@ -1,0 +1,33 @@
+#main {
+    background-image: url(./images/1.jpg);
+    background-size: cover;
+}
+
+.p-relative {
+    position: relative;
+}
+
+.p-absolute {
+    position: absolute;
+}
+
+.child {
+    background-color: rgba(0, 0, 0, 0.527);
+}
+
+.h2 {
+    font-family: "Protest Revolution", sans-serif;
+}
+
+.inst {
+    font-family: "Lobster", sans-serif;
+}
+
+.custom-btn {
+    border: 1px solid white;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+.custom-btn:hover {
+    background-color: rgba(0, 0, 0, 0.75);
+}
